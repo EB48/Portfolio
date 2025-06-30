@@ -1,0 +1,24 @@
+body{
+  display:flex;
+  flex-direction: column;
+  
+}
+
+header{
+  justify-content: center;
+}
+
+section{
+  display: flex;
+  flex-direction: column;
+  margin:40px;
+  align-items: center;
+  border: 10px solid black;
+}
+
+img{
+  height: 500px;
+  width: 600px;
+  padding: 20px;
+  
+}

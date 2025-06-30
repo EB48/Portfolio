@@ -1,0 +1,36 @@
+header{
+  justify-content: center;
+}
+
+section{
+  margin:40px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+}
+
+.img {
+  width: 500px;
+  height: 300px;
+  border-style: solid;
+  border-color: antiquewhite;
+  border-radius: 10px;
+  padding: 10px;
+
+  
+}
+.img:hover{
+  opacity: 0.8;
+  width: 520px;
+  height: 310px;
+}
+
+p{
+  font-size: 22px;
+  padding-right: 100px;
+  
+}
+a{
+  font-size: 22px;
+  margin-right: 20px;
+}

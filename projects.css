@@ -5,7 +5,7 @@ header{
 section{
   margin:40px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   gap: 60px;
 }
 
@@ -23,6 +23,19 @@ section{
   opacity: 0.8;
   width: 520px;
   height: 310px;
+}
+.mobile {
+  height: 300px;
+  width: 160px;
+  border-style: solid;
+  border-color: antiquewhite;
+  border-radius: 10px;
+  padding: 10px;
+}
+.mobile:hover {
+  opacity: 0.8;
+  height: 310px;
+  width: 180px;
 }
 
 p{

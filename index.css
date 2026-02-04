@@ -32,7 +32,10 @@ body {
   color:rgb(2, 1, 65);
   border-style:dashed;
   border-color: rgb(1, 32, 90);
+  display: flex;
+  justify-content: center;
   padding: 30px;
-  width: 1000px;
-  margin-left: 130px;
+  margin:200px;
+  margin-top: 20px;
+
 }
